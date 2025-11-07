@@ -1,8 +1,8 @@
 # Import python packages
-import pandas as pd
 import streamlit as st
 import requests
 from snowflake.snowpark.functions import col
+import pandas as pd
 
 # Write directly to the app
 st.title(":cup_with_straw: Customize your somothier your life here thulltly :clown_face:")
